@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ObjectDetector</string>
+    <string name="image_recognization">IMAGE RECOGNIZATION</string>
+</resources>
