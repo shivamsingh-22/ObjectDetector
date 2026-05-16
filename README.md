@@ -15,6 +15,18 @@ Capture images instantly and view detected object names with confidence scores.
 
 ---
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="screenshots/homepage.jpeg" width="150"/>
+  <img src="screenshots/im1.jpeg" width="150"/>
+  <img src="screenshots/im2.jpeg" width="150"/>
+  <img src="screenshots/im3.jpeg" width="150"/>
+  <img src="screenshots/im4.jpeg" width="150"/>
+</p>
+
+---
+
 ## 🚀 Tech Stack
 
 **Technology:**  
